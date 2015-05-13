@@ -1,8 +1,11 @@
 this project will be changed to websocket based architecture.
 
 1) add websocket client funtion
+
 2) deprecate harvester
+
 3) change web page scrolling
+
 4) add node manager
 
 
